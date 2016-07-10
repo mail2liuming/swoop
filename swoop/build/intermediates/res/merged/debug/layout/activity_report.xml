@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/ilu_head"
+        layout="@layout/title_bar" />
+	 <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dip"
+             android:layout_marginRight="10dip"
+             android:layout_marginTop="10dp"
+            android:text="WHAT TYPE OF COMPLAINT DO YOU HAVE?"
+            android:textColor="@color/main_text_color"
+             />
+    
+    <LinearLayout
+        android:id="@+id/llReport"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:background="@drawable/country_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvReport"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dip"
+            android:layout_weight="1"
+            android:text="select report type"
+            android:textColor="@color/main_text_color"
+            android:textSize="@dimen/et_text_size" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="30dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/arrow_item" />
+    </LinearLayout>
+<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dip"
+             android:layout_marginRight="10dip"
+             android:layout_marginTop="10dp"
+            android:text="WHAT IS YOUR COMPLANIT?"
+            android:textColor="@color/main_text_color"
+             />
+    <EditText
+        android:id="@+id/ad_content"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:gravity="top"
+        android:hint="Please enter details here"
+        android:padding="10dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/register_bg_sel"
+        android:minHeight="@dimen/minheight_btn"
+        android:text="Submit"
+        android:textColor="@android:color/white"
+        android:textSize="18.0sp" />
+
+</LinearLayout>

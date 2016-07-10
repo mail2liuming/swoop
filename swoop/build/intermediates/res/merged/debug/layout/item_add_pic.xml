@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+<RelativeLayout 
+    android:layout_width="122dp"
+    android:layout_height="82dp" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#00B2EE" >
+
+        <LinearLayout
+            android:layout_width="110dip"
+            android:layout_height="70dip"
+            android:layout_centerInParent="true"
+            android:layout_margin="2dp"
+            android:background="@android:color/white" >
+
+            <ImageView
+                android:id="@+id/grllery_pic"
+                android:layout_width="110dip"
+                android:layout_height="70dip"
+                android:scaleType="centerCrop" />
+
+            <LinearLayout
+                android:id="@+id/grllery_add_pic"
+                android:layout_width="110dip"
+                android:layout_height="70dip"
+                android:background="@drawable/add_new_photos_bg"
+                android:padding="10dip"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:id="@+id/iv_logo_item_lv_begin_order"
+                    android:layout_width="15dip"
+                    android:layout_height="18dip"
+                    android:layout_gravity="center_horizontal"
+                    android:paddingTop="3dip"
+                    android:src="@drawable/add_icon2" />
+
+                <TextView
+                    android:id="@+id/startTime"
+                    style="@style/main_text"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="10dip"
+                    android:ellipsize="marquee"
+                    android:singleLine="false"
+                    android:text="add new photo"
+                    android:textColor="#ffffffff" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+	
+    <ImageButton android:layout_width="20dp"
+        android:id="@+id/del_pic"
+        android:background="@drawable/cancel_press"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_height="20dp"/>
+    
+</RelativeLayout>
+</LinearLayout>

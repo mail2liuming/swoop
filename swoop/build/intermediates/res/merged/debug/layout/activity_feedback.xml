@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/ilu_head"
+        layout="@layout/title_bar" />
+
+    <EditText
+        android:id="@+id/ad_content"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp" 
+        android:layout_marginTop="30dp"
+        android:background="@color/white"
+        android:gravity="top"
+        android:hint="Please enter details here"
+        android:padding="10dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/register_bg_sel"
+        android:minHeight="@dimen/minheight_btn"
+        android:text="Submit"
+        android:textColor="@android:color/white"
+        android:textSize="18.0sp" />
+
+</LinearLayout>

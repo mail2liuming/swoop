@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+  android:shape="oval">
+ <!--  <solid
+     android:color="#F00" /> -->
+  <!--gradient就是梯度渲染，简单说就是颜色渐变，type为渐变方式，总共三种 linear sweep  ridial,常用linear-->
+  <gradient android:endColor="#eebbbb" android:startColor="#9900ee" android:type="linear" />
+  <stroke
+    android:width="2dip"
+    android:color="#FFF" />
+</shape>

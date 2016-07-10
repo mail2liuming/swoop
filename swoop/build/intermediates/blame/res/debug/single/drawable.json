@@ -1,0 +1,742 @@
+[
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/title_bar_gradient.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/title_bar_gradient.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/title_bg_repeat.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/title_bg_repeat.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/pic_border.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/pic_border.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tag_seven_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tag_seven_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/list_top_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/list_top_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/pull_to_refresh_header_background.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/pull_to_refresh_header_background.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/list_selector_color2.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/list_selector_color2.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/cancel_sel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/cancel_sel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/list_item_color_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/list_item_color_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/fav_btn_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/fav_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/selected_background_footer.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/selected_background_footer.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/main_bg_repeat.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/main_bg_repeat.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/selling_item_bg_sel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/selling_item_bg_sel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/register_bg_sel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/register_bg_sel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/chevron.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/chevron.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/gridview_item_src_bg_pressed.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/gridview_item_src_bg_pressed.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/newslist_item_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/newslist_item_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/room_rating_bar.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/room_rating_bar.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/pgfile_small.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/pgfile_small.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/btn_phone_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/btn_phone_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/top_btn_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/top_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/start_order_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/start_order_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/list_bottom_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/list_bottom_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/red_border.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/red_border.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/sp_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/sp_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/editext_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/editext_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/bt_first_page_down_sele.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/bt_first_page_down_sele.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shape_custom_header.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shape_custom_header.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/top_left_button.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/top_left_button.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/corners_bg1.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/corners_bg1.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/toolbar_middle_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/toolbar_middle_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/rest_item_bg_selector2.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/rest_item_bg_selector2.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/popup_camera_sele.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/popup_camera_sele.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/toolbar_right_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/toolbar_right_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/setting_edit.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/setting_edit.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/news_collect_btn_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/news_collect_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/androidViewPagerIndicator/unspecified/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/home_gradient.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/home_gradient.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/postbg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/postbg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/divider.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/spinner_ab_holo_light.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/background_view_rounded_bottom.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/background_view_rounded_bottom.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/order_btn_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/order_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/pgsetting.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/pgsetting.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/common_btn_back_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/common_btn_back_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/navi_btn_arrow.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/navi_btn_arrow.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tab_bg_gradient.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tab_bg_gradient.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/inputtxt.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/inputtxt.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/login_button_press.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/login_button_press.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/filled_activity_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/filled_activity_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/edit_text_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/background_view_rounded_middle.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/background_view_rounded_middle.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/register_tv_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/register_tv_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/navi_btn.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/navi_btn.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/bt_des.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/bt_des.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/cut_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/cut_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/edit_bt_stop.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/edit_bt_stop.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/search_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/search_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/corners_bg6.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/corners_bg6.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/change_location_btn_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/change_location_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shake_btn_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shake_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/mine_btn_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/mine_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/corners_bg3.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/corners_bg3.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_orange.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/textview_color2.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/textview_color2.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/rest_item_two_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/rest_item_two_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/back_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/back_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/pgdrawable.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/pgdrawable.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/background.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/background.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/common_btn_bg_press.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/common_btn_bg_press.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/checkbox_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/checkbox_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/common_btn_bg_normal.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/common_btn_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shape_line.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shape_line.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_red.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/btn_next_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/btn_next_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/background_view_rounded_single.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/background_view_rounded_single.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/list_round.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/list_round.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/base_btn_style_alert_dialog_cancel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/comvclib/unspecified/res/drawable/base_btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/search_sel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/search_sel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tag_six_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tag_six_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/corners_bg5.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/corners_bg5.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/navi_btn_selected.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/navi_btn_selected.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shape_bottom_corner_no_top_line.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shape_bottom_corner_no_top_line.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/add_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/add_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/start_order_ll_bg_repeat.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/start_order_ll_bg_repeat.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tag_two_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tag_two_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/bt_search.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/bt_search.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/where_am_i_open_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/where_am_i_open_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/background_view_rounded_container.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/background_view_rounded_container.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/login_button_select.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/login_button_select.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tag_four_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tag_four_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/radio_btn_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/radio_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/back_button_sel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/back_button_sel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/img_on.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/img_on.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shadow.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shadow.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/spinner_ab.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/spinner_ab.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/add_button_bg_sel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/add_button_bg_sel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shape_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shape_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/list_round_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/list_round_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/choose_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/choose_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/mine_ll_bg_repeat.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/mine_ll_bg_repeat.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/btn_bg_sel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/btn_bg_sel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/btn_bg_item_office_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/btn_bg_item_office_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/time_line_left_bg_repeat.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/time_line_left_bg_repeat.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/search_imgbtn_click.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/search_imgbtn_click.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/corners_bg4.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/corners_bg4.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shape_top_corner_no_bottom_line.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shape_top_corner_no_bottom_line.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/pgfile.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/pgfile.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/gv_item_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/gv_item_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/type_item_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/type_item_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tag_ten_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tag_ten_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/top_right_button.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/top_right_button.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/register_btn_bg_sel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/register_btn_bg_sel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/confirm_sel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/confirm_sel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/drive.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/drive.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shape_no_corner_without_bottom.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shape_no_corner_without_bottom.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/border_border.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/border_border.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tag_one_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tag_one_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/order_info_lv_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/order_info_lv_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/btn_bg_item_office.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/btn_bg_item_office.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/btn_bg_press_item_office.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/btn_bg_press_item_office.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/list_rect_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/list_rect_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/border.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/corners_bg2.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/corners_bg2.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/login_button_nor.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/login_button_nor.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_green.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/myaccount_header_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/myaccount_header_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/navi_bar_background.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/navi_bar_background.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/where_am_i_close_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/where_am_i_close_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/news_reply_post_btn_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/news_reply_post_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shape_bg_red.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shape_bg_red.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/gridview_item_src_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/gridview_item_src_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tag_five_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tag_five_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/textc.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/textc.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/badge_circle.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/badge_circle.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/item_office_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/item_office_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/start_btn_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/start_btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shape.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shape.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tag_night_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tag_night_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/mis_action_btn.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.github.lovetuzitong/MultiImageSelector/1.2/res/drawable/mis_action_btn.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/change_class_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/change_class_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/myedit.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/myedit.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/buttonstyle.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/buttonstyle.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/settings_bg_sel.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/settings_bg_sel.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/login_exittext_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/login_exittext_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/bt_aes.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/bt_aes.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/datetimeicon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/datetimeicon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/dash_line.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/dash_line.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/order_info_footer_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/order_info_footer_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tag_three_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tag_three_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/background_view_rounded_top.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/background_view_rounded_top.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/rest_item_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/rest_item_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/inputtxt_hover.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/inputtxt_hover.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/choose_item_bg_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/choose_item_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/toolbar_left_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/toolbar_left_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/ratingbar_drawable.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/ratingbar_drawable.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/tag_eight_bg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/tag_eight_bg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/righttextbg.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/righttextbg.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable/shape_bg1.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable/shape_bg1.xml"
+    }
+]

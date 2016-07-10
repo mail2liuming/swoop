@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/comvclib/src/main/java/com/vc/net/AsyncHttpClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comvclib/src/main/java/com/vc/net/AsyncHttpRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comvclib/src/main/java/com/vc/net/FileHttpResponseHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comvclib/src/main/java/com/vc/net/PersistentCookieStore.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comvclib/src/main/java/com/vc/net/SyncHttpClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comvclib/src/main/java/com/vc/pulltorefresh/LoadingLayout.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comvclib/src/main/java/com/vc/util/FileHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comvclib/src/main/java/com/vc/util/ImageUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/comvclib/src/main/java/com/vc/util/ObjectHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swoop/src/main/java/com/vc/swoop/ADDetailActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swoop/src/main/java/com/vc/swoop/AddOrEditAdActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swoop/src/main/java/com/vc/swoop/adapter/NearbyListAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swoop/src/main/java/com/vc/swoop/adapter/SellingListAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swoop/src/main/java/com/vc/swoop/adapter/WatchListAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swoop/src/main/java/com/vc/swoop/common/App.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swoop/src/main/java/com/vc/swoop/common/AppService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swoop/src/main/java/com/vc/swoop/common/ApplicationMamager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swoop/src/main/java/com/vc/swoop/common/BaseFragmentActivity.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,324 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From Android-ViewPagerIndicator:
+* ic_launcher-web.png
+* proguard-project.txt
+From PullToRefreshLib:
+* PullToRefreshLib.iml
+* build.gradle
+* build/
+* build/generated/
+* build/generated/source/
+* build/generated/source/buildConfig/
+* build/generated/source/buildConfig/debug/
+* build/generated/source/buildConfig/debug/com/
+* build/generated/source/buildConfig/debug/com/uroad/
+* build/generated/source/buildConfig/debug/com/uroad/pulltorefreshlib/
+* build/generated/source/buildConfig/debug/com/uroad/pulltorefreshlib/BuildConfig.java
+* build/generated/source/buildConfig/release/
+* build/generated/source/buildConfig/release/com/
+* build/generated/source/buildConfig/release/com/uroad/
+* build/generated/source/buildConfig/release/com/uroad/pulltorefreshlib/
+* build/generated/source/buildConfig/release/com/uroad/pulltorefreshlib/BuildConfig.java
+* build/generated/source/r/
+* build/generated/source/r/debug/
+* build/generated/source/r/debug/com/
+* build/generated/source/r/debug/com/uroad/
+* build/generated/source/r/debug/com/uroad/pulltorefreshlib/
+* build/generated/source/r/debug/com/uroad/pulltorefreshlib/R.java
+* build/generated/source/r/release/
+* build/generated/source/r/release/com/
+* build/generated/source/r/release/com/uroad/
+* build/generated/source/r/release/com/uroad/pulltorefreshlib/
+* build/generated/source/r/release/com/uroad/pulltorefreshlib/R.java
+* build/intermediates/
+* build/intermediates/bundles/
+* build/intermediates/bundles/debug/
+* build/intermediates/bundles/debug/AndroidManifest.xml
+* build/intermediates/bundles/debug/R.txt
+* build/intermediates/bundles/debug/aapt/
+* build/intermediates/bundles/debug/aapt/AndroidManifest.xml
+* build/intermediates/bundles/debug/classes.jar
+* build/intermediates/bundles/debug/res/
+* build/intermediates/bundles/debug/res/drawable-hdpi/
+* build/intermediates/bundles/debug/res/drawable-hdpi/ic_launcher.png
+* build/intermediates/bundles/debug/res/drawable-mdpi/
+* build/intermediates/bundles/debug/res/drawable-mdpi/ic_launcher.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi/
+* build/intermediates/bundles/debug/res/drawable-xhdpi/ic_launcher.png
+* build/intermediates/bundles/debug/res/drawable-xhdpi/ptr_rotate_arrow.png
+* build/intermediates/bundles/debug/res/layout/
+* build/intermediates/bundles/debug/res/layout/cube_ptr_classic_default_header.xml
+* build/intermediates/bundles/debug/res/layout/cube_ptr_simple_loading.xml
+* build/intermediates/bundles/debug/res/values-v11/
+* build/intermediates/bundles/debug/res/values-v11/values-v11.xml
+* build/intermediates/bundles/debug/res/values-v14/
+* build/intermediates/bundles/debug/res/values-v14/values-v14.xml
+* build/intermediates/bundles/debug/res/values-zh/
+* build/intermediates/bundles/debug/res/values-zh/values-zh.xml
+* build/intermediates/bundles/debug/res/values/
+* build/intermediates/bundles/debug/res/values/values.xml
+* build/intermediates/bundles/release/
+* build/intermediates/bundles/release/AndroidManifest.xml
+* build/intermediates/bundles/release/R.txt
+* build/intermediates/bundles/release/aapt/
+* build/intermediates/bundles/release/aapt/AndroidManifest.xml
+* build/intermediates/bundles/release/classes.jar
+* build/intermediates/bundles/release/res/
+* build/intermediates/bundles/release/res/drawable-hdpi/
+* build/intermediates/bundles/release/res/drawable-hdpi/ic_launcher.png
+* build/intermediates/bundles/release/res/drawable-mdpi/
+* build/intermediates/bundles/release/res/drawable-mdpi/ic_launcher.png
+* build/intermediates/bundles/release/res/drawable-xhdpi/
+* build/intermediates/bundles/release/res/drawable-xhdpi/ic_launcher.png
+* build/intermediates/bundles/release/res/drawable-xhdpi/ptr_rotate_arrow.png
+* build/intermediates/bundles/release/res/layout/
+* build/intermediates/bundles/release/res/layout/cube_ptr_classic_default_header.xml
+* build/intermediates/bundles/release/res/layout/cube_ptr_simple_loading.xml
+* build/intermediates/bundles/release/res/values-v11/
+* build/intermediates/bundles/release/res/values-v11/values-v11.xml
+* build/intermediates/bundles/release/res/values-v14/
+* build/intermediates/bundles/release/res/values-v14/values-v14.xml
+* build/intermediates/bundles/release/res/values-zh/
+* build/intermediates/bundles/release/res/values-zh/values-zh.xml
+* build/intermediates/bundles/release/res/values/
+* build/intermediates/bundles/release/res/values/values.xml
+* build/intermediates/classes/
+* build/intermediates/classes/debug/
+* build/intermediates/classes/debug/com/
+* build/intermediates/classes/debug/com/uroad/
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrClassicDefaultHeader$1.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrClassicDefaultHeader$LastUpdateTimeUpdater.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrClassicDefaultHeader.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrClassicFrameLayout.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrDefaultHandler.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrFrameLayout$1.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrFrameLayout$2.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrFrameLayout$LayoutParams.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrFrameLayout$ScrollChecker.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrFrameLayout.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrHandler.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrUIHandler.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrUIHandlerHolder.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/PtrUIHandlerHook.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialHeader$1.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialHeader$2.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialHeader$3.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialHeader.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialProgressDrawable$1.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialProgressDrawable$2.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialProgressDrawable$3.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialProgressDrawable$4.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialProgressDrawable$5.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialProgressDrawable$EndCurveInterpolator.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialProgressDrawable$OvalShadow.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialProgressDrawable$Ring.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialProgressDrawable$StartCurveInterpolator.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/MaterialProgressDrawable.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/StoreHouseBarItem.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/StoreHouseHeader$1.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/StoreHouseHeader$AniController.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/StoreHouseHeader.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/header/StoreHousePath.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/indicator/
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/indicator/PtrIndicator.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/indicator/PtrTensionIndicator.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/util/
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/util/PtrCLog.class
+* build/intermediates/classes/debug/com/uroad/pulltorefresh/util/PtrLocalDisplay.class
+* build/intermediates/classes/debug/com/uroad/pulltorefreshlib/
+* build/intermediates/classes/debug/com/uroad/pulltorefreshlib/BuildConfig.class
+* build/intermediates/classes/debug/com/uroad/pulltorefreshlib/R$attr.class
+* build/intermediates/classes/debug/com/uroad/pulltorefreshlib/R$drawable.class
+* build/intermediates/classes/debug/com/uroad/pulltorefreshlib/R$id.class
+* build/intermediates/classes/debug/com/uroad/pulltorefreshlib/R$layout.class
+* build/intermediates/classes/debug/com/uroad/pulltorefreshlib/R$string.class
+* build/intermediates/classes/debug/com/uroad/pulltorefreshlib/R$style.class
+* build/intermediates/classes/debug/com/uroad/pulltorefreshlib/R$styleable.class
+* build/intermediates/classes/debug/com/uroad/pulltorefreshlib/R.class
+* build/intermediates/classes/release/
+* build/intermediates/classes/release/com/
+* build/intermediates/classes/release/com/uroad/
+* build/intermediates/classes/release/com/uroad/pulltorefresh/
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrClassicDefaultHeader$1.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrClassicDefaultHeader$LastUpdateTimeUpdater.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrClassicDefaultHeader.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrClassicFrameLayout.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrDefaultHandler.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrFrameLayout$1.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrFrameLayout$2.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrFrameLayout$LayoutParams.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrFrameLayout$ScrollChecker.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrFrameLayout.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrHandler.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrUIHandler.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrUIHandlerHolder.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/PtrUIHandlerHook.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialHeader$1.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialHeader$2.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialHeader$3.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialHeader.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialProgressDrawable$1.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialProgressDrawable$2.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialProgressDrawable$3.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialProgressDrawable$4.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialProgressDrawable$5.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialProgressDrawable$EndCurveInterpolator.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialProgressDrawable$OvalShadow.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialProgressDrawable$Ring.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialProgressDrawable$StartCurveInterpolator.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/MaterialProgressDrawable.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/StoreHouseBarItem.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/StoreHouseHeader$1.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/StoreHouseHeader$AniController.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/StoreHouseHeader.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/header/StoreHousePath.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/indicator/
+* build/intermediates/classes/release/com/uroad/pulltorefresh/indicator/PtrIndicator.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/indicator/PtrTensionIndicator.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/util/
+* build/intermediates/classes/release/com/uroad/pulltorefresh/util/PtrCLog.class
+* build/intermediates/classes/release/com/uroad/pulltorefresh/util/PtrLocalDisplay.class
+* build/intermediates/classes/release/com/uroad/pulltorefreshlib/
+* build/intermediates/classes/release/com/uroad/pulltorefreshlib/BuildConfig.class
+* build/intermediates/classes/release/com/uroad/pulltorefreshlib/R$attr.class
+* build/intermediates/classes/release/com/uroad/pulltorefreshlib/R$drawable.class
+* build/intermediates/classes/release/com/uroad/pulltorefreshlib/R$id.class
+* build/intermediates/classes/release/com/uroad/pulltorefreshlib/R$layout.class
+* build/intermediates/classes/release/com/uroad/pulltorefreshlib/R$string.class
+* build/intermediates/classes/release/com/uroad/pulltorefreshlib/R$style.class
+* build/intermediates/classes/release/com/uroad/pulltorefreshlib/R$styleable.class
+* build/intermediates/classes/release/com/uroad/pulltorefreshlib/R.class
+* build/intermediates/incremental/
+* build/intermediates/incremental/aidl/
+* build/intermediates/incremental/aidl/debug/
+* build/intermediates/incremental/aidl/debug/dependency.store
+* build/intermediates/incremental/aidl/release/
+* build/intermediates/incremental/aidl/release/dependency.store
+* build/intermediates/incremental/mergeAssets/
+* build/intermediates/incremental/mergeAssets/debug/
+* build/intermediates/incremental/mergeAssets/debug/merger.xml
+* build/intermediates/incremental/mergeAssets/release/
+* build/intermediates/incremental/mergeAssets/release/merger.xml
+* build/intermediates/incremental/packageResources/
+* build/intermediates/incremental/packageResources/debug/
+* build/intermediates/incremental/packageResources/debug/merger.xml
+* build/intermediates/incremental/packageResources/release/
+* build/intermediates/incremental/packageResources/release/merger.xml
+* build/outputs/
+* build/outputs/aar/
+* build/outputs/aar/PullToRefreshLib-debug.aar
+* build/outputs/aar/PullToRefreshLib-release.aar
+* build/tmp/
+* build/tmp/packageDebugJar/
+* build/tmp/packageDebugJar/MANIFEST.MF
+* build/tmp/packageReleaseJar/
+* build/tmp/packageReleaseJar/MANIFEST.MF
+* proguard-project.txt
+From com.vc.lib:
+* proguard-project.txt
+From image_browser_lib:
+* ic_launcher-web.png
+* proguard-project.txt
+From swoop:
+* .factorypath
+* compile-libs/
+* compile-libs/androidannotations-3.1.jar
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In Android-ViewPagerIndicator:
+* AndroidManifest.xml => androidViewPagerIndicator/src/main/AndroidManifest.xml
+* assets/ => androidViewPagerIndicator/src/main/assets
+* res/ => androidViewPagerIndicator/src/main/res/
+* src/ => androidViewPagerIndicator/src/main/java/
+In PullToRefreshLib:
+* AndroidManifest.xml => pullToRefreshLib/src/main/AndroidManifest.xml
+* assets/ => pullToRefreshLib/src/main/assets
+* res/ => pullToRefreshLib/src/main/res/
+* src/ => pullToRefreshLib/src/main/java/
+In com.vc.lib:
+* AndroidManifest.xml => comvclib/src/main/AndroidManifest.xml
+* assets/ => comvclib/src/main/assets
+* lint.xml => comvclib/lint.xml
+* res/ => comvclib/src/main/res/
+* src/ => comvclib/src/main/java/
+In image_browser_lib:
+* AndroidManifest.xml => image_browser_lib/src/main/AndroidManifest.xml
+* assets/ => image_browser_lib/src/main/assets
+* res/ => image_browser_lib/src/main/res/
+* src/ => image_browser_lib/src/main/java/
+In swoop:
+* .apt_generated/ => swoop/src/main/java/
+* AndroidManifest.xml => swoop/src/main/AndroidManifest.xml
+* assets/ => swoop/src/main/assets/
+* libs/androidannotations-api-3.1.jar => swoop/libs/androidannotations-api-3.1.jar
+* libs/arm64-v8a/libjpush206.so => swoop/src/main/jniLibs/arm64-v8a/libjpush206.so
+* libs/arm64-v8a/liblocSDK6a.so => swoop/src/main/jniLibs/arm64-v8a/liblocSDK6a.so
+* libs/armeabi-v7a/libjpush206.so => swoop/src/main/jniLibs/armeabi-v7a/libjpush206.so
+* libs/armeabi-v7a/liblocSDK6a.so => swoop/src/main/jniLibs/armeabi-v7a/liblocSDK6a.so
+* libs/armeabi/libjpush206.so => swoop/src/main/jniLibs/armeabi/libjpush206.so
+* libs/armeabi/liblocSDK6a.so => swoop/src/main/jniLibs/armeabi/liblocSDK6a.so
+* libs/bugly_1.2.8_release.jar => swoop/libs/bugly_1.2.8_release.jar
+* libs/fastjson-1.2.2.jar => swoop/libs/fastjson-1.2.2.jar
+* libs/jpush-android-2.0.6.jar => swoop/libs/jpush-android-2.0.6.jar
+* libs/libGoogleAnalyticsServices.jar => swoop/libs/libGoogleAnalyticsServices.jar
+* libs/locSDK_6.13.jar => swoop/libs/locSDK_6.13.jar
+* libs/mips/liblocSDK6a.so => swoop/src/main/jniLibs/mips/liblocSDK6a.so
+* libs/mips64/liblocSDK6a.so => swoop/src/main/jniLibs/mips64/liblocSDK6a.so
+* libs/universal-image-loader-1.9.3.jar => swoop/libs/universal-image-loader-1.9.3.jar
+* libs/x86/liblocSDK6a.so => swoop/src/main/jniLibs/x86/liblocSDK6a.so
+* libs/x86_64/liblocSDK6a.so => swoop/src/main/jniLibs/x86_64/liblocSDK6a.so
+* lint.xml => swoop/lint.xml
+* res/ => swoop/src/main/res/
+* src/ => swoop/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

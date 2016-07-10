@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/androidViewPagerIndicator/androidViewPagerIndicator.iml" filepath="$PROJECT_DIR$/androidViewPagerIndicator/androidViewPagerIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comvclib/comvclib.iml" filepath="$PROJECT_DIR$/comvclib/comvclib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_browser_lib/image_browser_lib.iml" filepath="$PROJECT_DIR$/image_browser_lib/image_browser_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshLib/pullToRefreshLib.iml" filepath="$PROJECT_DIR$/pullToRefreshLib/pullToRefreshLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swoop.iml" filepath="$PROJECT_DIR$/swoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swoop/swoop-swoop.iml" filepath="$PROJECT_DIR$/swoop/swoop-swoop.iml" />
+    </modules>
+  </component>
+</project>

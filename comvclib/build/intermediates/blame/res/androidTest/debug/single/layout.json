@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/layout/base_pulltolistview.xml",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/layout/base_pulltolistview.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/layout/base_textview.xml",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/layout/base_textview.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/layout/base_pulltorefresh_header.xml",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/layout/base_pulltorefresh_header.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/layout/base_listview_windows.xml",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/layout/base_listview_windows.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/layout/base_pulltorefresh_footer.xml",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/layout/base_pulltorefresh_footer.xml"
+    }
+]

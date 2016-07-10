@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <color name="text_nomoral">#000000</color>
+    <color name="text_click">#8CB31D</color>
+    
+    <color name="btn_pressed">#ff0070e8</color>
+    <color name="text_default">#ff2c2c2c</color>
+    
+    <color name="bluec">#ff00518a</color>
+    <color name="chat_list_bg">#DEDEDE</color>
+    
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+  
+    <color name="background_color">#ffdbdada</color>
+    
+    <item type="drawable" name="newslist_item_background">#FFE7E7E7</item>
+    <item type="color" name="category_title_normal_background">#FFADB2AD</item>
+    
+    <color name="listViewBackground">#ff000000</color>
+    <color name="windowBackground">#fff2f2f2</color>
+     <color name="hsBackground">#ffffff80</color>
+    <color name="buttonBackground">#ffeaeaea</color>
+    <color name="footbuttonBackground">#ff999999</color>
+    <color name="headerSeparatorBackground">@color/headerBackground</color>
+    <color name="detailsEmptyBackground">#ffe0e0e0</color>
+    <color name="detailsInnerBackground">#ffffffff</color>
+    <color name="detailsBorderBackground">@color/detailsEmptyBackground</color>
+    <color name="separatorDark">#ffbbbbbb</color>
+    <color name="separatorLight">#ffffffff</color>
+    <color name="actionBarBackground">@color/windowBackground</color>
+    <color name="adBackground">@color/windowBackground</color>
+    <color name="secondaryTextColorLight">#ffbbbbbb</color>
+    <color name="line">#ffb6da69</color>
+    <color name="line1">#ff000000</color>
+    <color name="line2">#ffd2d2d2</color>
+    <color name="line4">#ffededed</color>
+    <color name="titlebackgroundcolor">#ff006eb4</color>
+    <color name="titletextcolor">#ffffffff</color>
+    <color name="label_default">#ff0293ff</color>
+    <color name="text_dark">#ff7f9abf</color>
+    <color name="text_light">#ff809bc0</color>
+    <color name="searchresult_light_bg">#ffffffff</color>
+    <color name="searchresult_dark_bg">#ffdde6f1</color>
+    <color name="searchresult_selected_bg">#ffccd7e0</color>
+    <color name="searchresult_dark_bottom_bg">#ffbbc6cf</color>
+    <color name="red">#fff2f2f2</color>
+    <color name="green">#ff339900</color>
+    <color name="dark_shadow">#80000000</color>
+    <color name="light_shadow">#ffffffff</color>
+    <color name="red_shadow">#ffe3a1a1</color>
+    <color name="green_button">#ff7fc80a</color>
+    <color name="text">#ff757575</color>
+    <color name="line3">#ffc9cbcb</color>
+    <color name="headerBackground">#ffeaeaea</color>
+    <color name="headerTitleColor">#ff000000</color>
+    <color name="buttonPostAdHomeColor">#fff7f3f3</color>
+    <color name="background_register_user_label">#ffff0000</color>
+    <color name="textcolor_register_user_label">#ffe6e8fa</color>
+    <color name="backgroud_non_register_user_label">#ffff0000</color>
+    <color name="textcolor_non_register_user_label">#ffe6e8fa</color>
+    <color name="text_Link">#ffe25555</color>
+    <color name="dialog_list_item_unselected">#ffe7e5e5</color>
+    
+        <color name="common_title_bg_color">#ffffba03</color>
+    <color name="shake_bg_color">#99000000</color>
+    <color name="main_text_color">#ff4d4d4d</color>
+    <color name="minor_text_color">#ff808080</color>
+    <color name="item_selected_color">#20ff6600</color>
+    <color name="popmenu_like_color">#ffacaba9</color>
+    <color name="btn_press_color">#ffffa21c</color>
+    <color name="btn_normal_color">#ffffac38</color>
+    <color name="no_opentime_color">#ffb9b9b9</color>
+    <color name="common_color">#ffffac38</color>
+    <color name="main_txt_color">#ff333333</color>
+    <color name="state_no_active">#ff999999</color>
+    <color name="total_bg">#ffeeeeee</color>
+    <color name="rounded_container_border">#ffcccccc</color>
+    <color name="base_start_color_default">#ffffffff</color>
+    <color name="base_end_color_default">#ffffffff</color>
+    <color name="base_start_color_pressed">#fff6e6d7</color>
+    <color name="base_end_color_pressed">#fff6e6d7</color>
+    <color name="text_color_default">#ff333333</color>
+    <color name="text_color_pressed">#ff333333</color>
+    <color name="res_item_press_color">#fff9e8d9</color>
+    <color name="res_item_color1">#00000000</color>
+    <color name="res_item_color2">#fff9e8d9</color>
+    <color name="searcha_bg_color">#fffafafa</color>
+    <color name="single_item_bg">#fff4f4f4</color>
+    <color name="double_item_bg">#ffe4e2e2</color>
+    <color name="et_normal">#ffcccccc</color>
+    <color name="et_press">#ffffac38</color>
+    <color name="common_price_color">#ffffba02</color>
+    <color name="choose_item_normal">#ffffac38</color>
+    <color name="choose_item_press">#ffcccccc</color>
+    <color name="type_item_press">#ff2e2e2e</color>
+    <color name="type_item_normal">#ff414141</color>
+    <color name="where_title_open_color">#fff6f6f6</color>
+    <color name="where_title_close_color">#ff717171</color>
+    <color name="item_office_normal_color">#fff1f1f1</color>
+    <color name="item_office_press_color">#ffe6e6e6</color>
+    <color name="gray">#ffdbdbdb</color>
+    <color name="list_divider">#ffcfcfcf</color>
+    <color name="color_main_bg">#ff323232</color>
+    <color name="color_home_foot_bg">#ff191919</color>
+    <color name="color_home_foot_txt_normal">#ff7d7d7b</color>
+    <color name="color_home_foot_txt_press">#ffe89a2b</color>
+    <color name="color_white">#ffffffff</color>
+    <color name="color_tag_1">#fff29e24</color>
+    <color name="color_tag_2">#ffbde463</color>
+    <color name="color_tag_3">#ffdc7f42</color>
+    <color name="color_tag_4">#ff5eaaa0</color>
+    <color name="color_tag_5">#ff2bcc6c</color>
+    <color name="color_tag_6">#ff39b54a</color>
+    <color name="color_tag_7">#ff29abe2</color>
+    <color name="color_tag_8">#ff93278f</color>
+    <color name="color_tag_9">#fff15a24</color>
+    <color name="color_tag_10">#ffc69c6d</color>
+    <color name="color_tag_1_pre">#70f29e24</color>
+    <color name="color_tag_2_pre">#70bde463</color>
+    <color name="color_tag_3_pre">#70dc7f42</color>
+    <color name="color_tag_4_pre">#705eaaa0</color>
+    <color name="color_tag_5_pre">#702bcc6c</color>
+    <color name="color_tag_6_pre">#7039b54a</color>
+    <color name="color_tag_7_pre">#7029abe2</color>
+    <color name="color_tag_8_pre">#7093278f</color>
+    <color name="color_tag_9_pre">#70f15a24</color>
+    <color name="color_tag_10_pre">#70c69c6d</color>
+    <color name="color_item_order_txt">#ff808080</color>
+    <color name="color_item_order_txt_info">#ff82d9f5</color>
+    <color name="color_item_order_gray_txt_info">#ffcbcbcb</color>
+    <color name="color_item_order_price">#fff29d26</color>
+    <color name="color_type_selected">#fff7931e</color>
+    
+    <color name="window_bg">#fff0f3f6</color>
+    <color name="transparent">#00000000</color>
+    <color name="title_bg">#ff54acea</color>
+    <color name="button_unselected">#ff54acea</color>
+    <color name="button_selected">#ff419de4</color>
+    <color name="info_panel_bg">#ffeeeeee</color>
+	<color name="chat_title_name">#ffffffff</color>
+    <color name="traffic_bg">#ffecf0f1</color>
+    <color name="traffic_txt">#ff414141</color>
+    <color name="traffic_data">#ff666666</color>
+    
+    <color name="popup_bg">#f2f2f2</color>
+    <color name="light_black">#a8a8a8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_white">#dddddd</color>
+    <color name="black">#000000</color>
+</resources>

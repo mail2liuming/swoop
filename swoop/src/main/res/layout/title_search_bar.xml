@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="50.0dip"
+    android:background="@drawable/top"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/btnBaseLeft"
+        android:layout_width="50.0dip"
+        android:layout_height="50.0dip"
+        android:layout_marginLeft="5dip" 
+        android:layout_alignParentLeft="true"
+        android:minWidth="50.0dip" 
+        android:background="@drawable/back_button_sel"
+          />
+
+    <RelativeLayout
+        android:id="@+id/ll_log"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_centerInParent="true"
+        android:layout_weight="1"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tvBaseTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:layout_centerInParent="true"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="Swoop"
+            android:textColor="@color/white"
+            android:visibility="gone"
+            android:textSize="18sp" />
+        
+    </RelativeLayout>
+	<TextView
+        android:id="@+id/tvBaseRight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginRight="5dip" 
+        android:text="wid"
+        android:textSize="12sp"
+        android:minWidth="50.0dip" 
+        android:textColor="@color/white" 
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:visibility="gone" />
+
+</LinearLayout>

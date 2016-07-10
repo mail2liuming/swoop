@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/base_nodata.png",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/base_nodata.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/base_btn_style_alert_dialog_background.9.png",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/base_btn_style_alert_dialog_background.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/base_btn_style_alert_dialog_cancel_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/base_btn_style_alert_dialog_cancel_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/base_arrow_down.png",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/base_arrow_down.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/base_btn_style_alert_dialog_button_pressed.9.png",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/base_btn_style_alert_dialog_button_pressed.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/base_default_ptr_drawable.png",
+        "source": "/Users/liuming/Downloads/swoop/comvclib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/base_default_ptr_drawable.png"
+    }
+]

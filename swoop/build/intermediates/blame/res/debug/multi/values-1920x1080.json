@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/values-1920x1080/values-1920x1080.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/Users/liuming/Downloads/swoop/swoop/src/main/res/values-1920x1080/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 37,
+                        "endOffset": 96
+                    }
+                }
+            }
+        ]
+    }
+]

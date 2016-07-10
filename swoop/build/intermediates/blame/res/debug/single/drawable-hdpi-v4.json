@@ -1,0 +1,2078 @@
+[
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/mms.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/mms.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/toolbar_right_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/toolbar_right_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_des_bg_old.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/title_des_bg_old.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconset1_14.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/iconset1_14.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_selling_button.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_selling_button.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_take.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_take.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/load_03.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/load_03.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/download_arrow_click.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/download_arrow_click.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/contact_me.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/contact_me.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_pressdown_tishi.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/button_pressdown_tishi.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/sp_pressdown.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/sp_pressdown.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/toolbar_left_pressed.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/toolbar_left_pressed.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/right_account.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/right_account.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/separate.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/separate.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_talk.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_talk.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/transparent_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/transparent_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/line_about_land.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/line_about_land.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_share.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_fastfood_v2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_fastfood_v2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_system_kongjian.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/bg_system_kongjian.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/dialog_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_title.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/dialog_title.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/progress_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_myorder_normal.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_myorder_normal.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_settings.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_settings.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_bookmark.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_bookmark.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/drink_icon_pop.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/drink_icon_pop.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_choose_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_choose_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/round_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/round_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/base_default_ptr_drawable.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/comvclib/unspecified/res/drawable-hdpi-v4/base_default_ptr_drawable.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_myorder_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_myorder_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialogue_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/dialogue_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/state_four.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/state_four.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/blank_ads.jpg",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/blank_ads.jpg"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/filter_menu_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/filter_menu_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/xsearch_loading.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/xsearch_loading.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/phone_number_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/phone_number_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/userpass_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/userpass_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/toogle_gray.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/toogle_gray.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/star_empty.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/star_empty.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/fanganbg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/fanganbg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_contact_seller.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_contact_seller.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/nearby_icon_pressed.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/nearby_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_system.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/item_system.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/et_normarl_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/et_normarl_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_edit_focused.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/mm_edit_focused.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_share.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_share.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/cancel_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/cancel_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/retrive_list_arrow_down.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/retrive_list_arrow_down.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_category_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_category_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/edit_cancel.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/edit_cancel.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_info.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_info.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/country_button.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/country_button.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_tweibo.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_tweibo.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/cut_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/cut_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_signout.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_signout.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/base_btn_style_alert_dialog_button_pressed.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/comvclib/unspecified/res/drawable-hdpi-v4/base_btn_style_alert_dialog_button_pressed.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_feedback.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_feedback.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_postad.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_postad.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_turn_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/setting_turn_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/filter.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/filter.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_refresh.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_refresh.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/terms_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/terms_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_button_rightpress.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/top_button_rightpress.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/friend_info_qzone.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/friend_info_qzone.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_block.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/chat_block.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_background_black.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/main_background_black.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_order_detail.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/bg_order_detail.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/base_btn_style_alert_dialog_cancel_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/comvclib/unspecified/res/drawable-hdpi-v4/base_btn_style_alert_dialog_cancel_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_delete_sure.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_delete_sure.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/next_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/next_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_pic_folder_name.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_pic_folder_name.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_press.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_press.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/country_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/country_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/friend_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/friend_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/richpush_btn_selector.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_bottom_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/tab_bottom_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_list.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_list.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/map_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/map_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/watch_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/watch_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/start_order_ll_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/start_order_ll_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/base_btn_style_alert_dialog_background.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/comvclib/unspecified/res/drawable-hdpi-v4/base_btn_style_alert_dialog_background.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_item_pressed.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_item_pressed.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/my_order_click_home.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/my_order_click_home.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_btn_search_click.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_btn_search_click.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/fastfood_icon_pop.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/fastfood_icon_pop.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_button.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/back_button.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_message.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_message.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/my_chat1_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/my_chat1_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/edittext.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_collect_btn.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/news_collect_btn.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/start_order_btn_bg_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/start_order_btn_bg_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/images_border_radius.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/images_border_radius.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/shake_logo_down.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/shake_logo_down.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_export.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_export.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_next_click.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/btn_next_click.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_reply_post_btn_up.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/news_reply_post_btn_up.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/right_arrow.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/right_arrow.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_gcoding.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_gcoding.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/unnet_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/unnet_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_richpush_actionbar_back.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/green_file_s.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/green_file_s.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/start_order_btn_bg_normal.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/start_order_btn_bg_normal.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_locate_myself.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_locate_myself.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/toolbar_right_pressed.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/toolbar_right_pressed.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_separator_line.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/list_separator_line.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_btn_over.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/search_btn_over.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/nav_bg_home.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/nav_bg_home.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/a.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/a.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/spinner_ab_focused_holo_light.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/selling_curr.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/selling_curr.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_office.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_office.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/retrive_list_arrow.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/retrive_list_arrow.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_weibo.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_weibo.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/register_bg1.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/register_bg1.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/phone.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/phone.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/blue_indicator.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/blue_indicator.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/jian_office.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/jian_office.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/trash_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/trash_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_input_white.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/login_input_white.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_reply_layout_background.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/news_reply_layout_background.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/main_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/search.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/search.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/popup_camera_down.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/popup_camera_down.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_btn_search.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_btn_search.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/cancel_button.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/cancel_button.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_back_click.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/search_back_click.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrow_item.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/arrow_item.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/attention_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/attention_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/img.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/img.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/about_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/about_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_rightbtn_pressed.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/top_rightbtn_pressed.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_reply_post_btn_down.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/news_reply_post_btn_down.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_choose_from_gallery.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_choose_from_gallery.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconset1_13.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/iconset1_13.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_message.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_message.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_exit.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/menu_exit.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_sort_by_size.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_sort_by_size.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/fav_btn_normarl_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/fav_btn_normarl_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/cut_press.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/cut_press.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/doing_open.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/doing_open.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_new_photos_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_new_photos_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_withdraw.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/bg_withdraw.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconset1_15.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/iconset1_15.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_trashcan.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_trashcan.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/change_mobilenumber_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/change_mobilenumber_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/selling_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/selling_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/sync_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/sync_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/toogle_green.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/toogle_green.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_all_friends.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_all_friends.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/shezhi_item_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/shezhi_item_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/process_file.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/process_file.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_wechat.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_wechat.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/et_selected_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/et_selected_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_myaccount_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_myaccount_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/tab.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/state_three.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/state_three.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_btn_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/login_btn_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/location_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/location_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/pot.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/pot.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_setting.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/menu_setting.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/active_navigation_menu.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/active_navigation_menu.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_item_focused.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_item_focused.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/filter_click.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/filter_click.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_full_holo_light.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/dialog_full_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/upomp_lthj_small_whitebtn.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/upomp_lthj_small_whitebtn.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/register_btn_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/register_btn_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/xin.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/xin.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/time_line_circle.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/time_line_circle.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/input.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/input.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/here_last.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/here_last.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_choose.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_choose.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/search1.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/search1.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/time_line_unactive.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/time_line_unactive.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_border.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/list_item_border.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_text.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/search_text.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_button_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_button_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/option_menu_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/option_menu_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/order_ll_bg_main.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/order_ll_bg_main.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_tishi.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/button_tishi.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/vpi__tab_selected_focused_holo.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/androidViewPagerIndicator/unspecified/res/drawable-hdpi-v4/vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/shake_logo_up.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/shake_logo_up.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_myaccount_normal.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_myaccount_normal.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_next_normal2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/btn_next_normal2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/watch_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/watch_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_button_right.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/top_button_right.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/edit_focus.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/edit_focus.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/picture_frame.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/picture_frame.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/delete2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/group_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/group_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/shake_btn_normal_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/shake_btn_normal_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/into_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/into_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_sort.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_sort.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/cancel1.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/cancel1.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/divider.jpg",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/divider.jpg"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/grey_indicator.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/grey_indicator.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/commom_back_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/commom_back_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/time_line_active.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/time_line_active.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/myorder_state_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/myorder_state_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/lv_backtotop.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/lv_backtotop.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_server.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_server.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_mail.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_mail.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/confirm.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/confirm.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/categorybar_item_background.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/categorybar_item_background.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/line_setting.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/line_setting.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_login_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/user_login_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_btn.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/search_btn.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_gallery.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_gallery.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/settings_icon_pressed.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/settings_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/hend.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/hend.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/push_on.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/push_on.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/radio_normal.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/radio_normal.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/start_normal.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/start_normal.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_locate.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_locate.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_next_normal.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/btn_next_normal.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/process_green_1.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/process_green_1.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/process_right.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/process_right.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/noodle_icon_pop.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/noodle_icon_pop.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/vpi__tab_unselected_holo.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/androidViewPagerIndicator/unspecified/res/drawable-hdpi-v4/vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/settings.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/phon_icon_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/phon_icon_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_recommend.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_recommend.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/myorder_state_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/myorder_state_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/time_line_left_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/time_line_left_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_button_bg1.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_button_bg1.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/sms.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/sms.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_delete_cancel.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_delete_cancel.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_drawable_let_location.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/btn_drawable_let_location.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/shop_list_item_two_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/shop_list_item_two_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/push_off.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/push_off.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/upload_arrow_click.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/upload_arrow_click.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_title_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/common_title_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/username_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/username_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/sort_up.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/sort_up.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/send_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/send_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/order_btn_normal_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/order_btn_normal_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/blank.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/blank.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_unread_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/tab_unread_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_back.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/common_back.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_pulltorefresh_arrow.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/comment_add.jpg",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/comment_add.jpg"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/register_btn_bg2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/register_btn_bg2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_indicator.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/red_indicator.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_take_photo.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_take_photo.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/download_arrow.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/download_arrow.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/pic_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/titlebar_background.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/titlebar_background.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/shop_list_item_one_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/shop_list_item_one_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/editable_mode_checked_tag.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/editable_mode_checked_tag.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_back_imgbtn_click.xml",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/search_back_imgbtn_click.xml"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/search_2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/green_file.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/green_file.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrow_right.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/page_indicator_focused.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/page_indicator_focused.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/baojin_off_03.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/baojin_off_03.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/option_menu_bg2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/option_menu_bg2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_home.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_home.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_favourite.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_favourite.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/unselect_background_footer.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/unselect_background_footer.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_view_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/title_view_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/vpi__tab_selected_pressed_holo.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/androidViewPagerIndicator/unspecified/res/drawable-hdpi-v4/vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/popup_camera.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/popup_camera.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_backup_pic_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_backup_pic_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/load_01.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/load_01.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/base_arrow_down.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/comvclib/unspecified/res/drawable-hdpi-v4/base_arrow_down.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_popup_more.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/back_popup_more.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/sort_down.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/sort_down.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/radio_checked.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/radio_checked.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/selling_icon_pressed.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/selling_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_background.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/main_background.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_type_choose.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_type_choose.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/doing_hide.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/doing_hide.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/baojin_on_03.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/baojin_on_03.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/chevron_default.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/chevron_default.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/wholebg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/wholebg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_next_click2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/btn_next_click2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_search.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_compass.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_compass.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/process_file_s.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/process_file_s.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/star_half.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/star_half.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_edit_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/chat_edit_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/mm_edit_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/mm_edit_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/all_icon_pop.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/all_icon_pop.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/contact_me2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/contact_me2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/watchlist_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/watchlist_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/dialog_line.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/dialog_line.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/emo_im_lips_are_sealed_s.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/emo_im_lips_are_sealed_s.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/pwd_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/pwd_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/choose_bg_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/choose_bg_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/pass_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/pass_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/choose_bg_normal.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/choose_bg_normal.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/upload_arrow.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/upload_arrow.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconset1_152.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/iconset1_152.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_gray.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/bg_gray.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/right_one.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/right_one.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_focus.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/tab_focus.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ye.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ye.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/time.jpg",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/time.jpg"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/start_order.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/start_order.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_star.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_star.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_view_profile.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_view_profile.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/pressdown_tishi.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/pressdown_tishi.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_slideshow.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_slideshow.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/index_mine_icon_select.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/index_mine_icon_select.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/mine_btn_normal_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/mine_btn_normal_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/toolbar_middle_pressed.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/toolbar_middle_pressed.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_headborder.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/news_headborder.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_title_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/com_title_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/selected_background_footer.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/selected_background_footer.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/bt_first_page.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/bt_first_page.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/categorybar_background.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/categorybar_background.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/pg_long.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/pg_long.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/confirm1.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/confirm1.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/index_mine_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/index_mine_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_gallery_item.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/bg_gallery_item.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/waiting.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/waiting.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/my_order_home.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/my_order_home.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_help.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_help.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_location_press.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/btn_location_press.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/vpi__tab_unselected_pressed_holo.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/androidViewPagerIndicator/unspecified/res/drawable-hdpi-v4/vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/base_nodata.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/comvclib/unspecified/res/drawable-hdpi-v4/base_nodata.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/sure.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/sure.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/emo_im_lovely_s.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/emo_im_lovely_s.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_group.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_group.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/phon_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/phon_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_checked.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_checked.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_listing.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/bg_listing.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/register_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/register_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/sp_hover.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/sp_hover.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconset1_16.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/iconset1_16.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_back_left.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/top_back_left.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_back_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/common_back_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/comom_back_normal.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/comom_back_normal.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_reply_layout_divider.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/news_reply_layout_divider.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/mine_btn_press_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/mine_btn_press_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/divider_about.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/divider_about.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_pressdown1.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/button_pressdown1.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/out_of_time.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/out_of_time.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/nearby_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/nearby_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/load_05.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/load_05.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_bookmarks.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_bookmarks.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/login_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/hour.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/hour.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/hover2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/hover2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/settings_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/settings_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconset1_132.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/iconset1_132.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/load_04.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/load_04.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/toolbar_left_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/toolbar_left_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_menu_checked.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_menu_checked.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_shake_center.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_shake_center.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_edit.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_edit.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/nomal_tishi.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/nomal_tishi.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_findkey.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/menu_findkey.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/register_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/register_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/pulltorefresh_down_arrow.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/pulltorefresh_down_arrow.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/scrollbar_handle_vertical.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/scrollbar_handle_vertical.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/selling_curr2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/selling_curr2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/top.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/top.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_user.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_user.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_tishin.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/button_tishin.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/login_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/dia_bt_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/dia_bt_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/spinner_ab_default_holo_light.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_eye.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_eye.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/vpi__tab_selected_holo.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/androidViewPagerIndicator/unspecified/res/drawable-hdpi-v4/vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/state_two.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/state_two.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/shake_btn_press_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/shake_btn_press_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/order_btn_press_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/order_btn_press_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/chevron_white.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/chevron_white.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_compose.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_compose.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_selected_background.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/list_selected_background.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/settings2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/settings2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/line.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/line.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_view_row_line.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/list_view_row_line.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_reply_img_btn_background.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/news_reply_img_btn_background.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/blank_list.jpg",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/blank_list.jpg"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/start.jpg",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/start.jpg"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/my_inf_click_home.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/my_inf_click_home.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/editable_mode_unchecked_tag.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/editable_mode_unchecked_tag.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/zhi.jpg",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/zhi.jpg"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/group_divider.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/group_divider.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_home.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_input_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/login_input_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/start_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/start_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/time_line_noactive.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/time_line_noactive.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_feedback.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_feedback.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/watchlist_icon_pressed.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/watchlist_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_left_andr_right.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/search_left_andr_right.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/content_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/content_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/hot.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/hot.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconset1_142.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/iconset1_142.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/friend_info_mail.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/friend_info_mail.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/fav_btn_press_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/fav_btn_press_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_item_drawable_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/list_item_drawable_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_listing_large.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/bg_listing_large.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/jian.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/jian.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/listview_item_background.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/listview_item_background.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_rightbtn_normal.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/top_rightbtn_normal.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_about.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/button_about.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_more.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_more.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/change_pass_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/change_pass_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/toolbar_middle_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/toolbar_middle_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/dis_popup_side.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/dis_popup_side.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/shake_test.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/shake_test.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/no_pic.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/no_pic.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_back_leftpress.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/top_back_leftpress.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/mine_ll_main.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/mine_ll_main.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/rate_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/rate_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/categorybar_right_arrow.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/categorybar_right_arrow.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_bar.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/search_bar.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/shelf_shadow.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/shelf_shadow.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/loading_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/phon_icon_normal.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/phon_icon_normal.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrow_right_default.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/arrow_right_default.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/jiz_text_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/jiz_text_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/sp_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/sp_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/tran.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/tran.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/log_out_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/log_out_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ok.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ok.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/active_one_fan.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/active_one_fan.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/sum_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/sum_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/state_one.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/state_one.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_relist.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_relist.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/star.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/star.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/menubg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/menubg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_search.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_search.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/process_green.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/process_green.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/cancel.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/cancel.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/page_indicator.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/page_indicator.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/my_inf_home.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/my_inf_home.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/help_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/help_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_add.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_add.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/spinner_ab_disabled_holo_light.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/edit_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/edit_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/pop_menul.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/pop_menul.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/pulltorefresh_up_arrow.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/pulltorefresh_up_arrow.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_button1.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/back_button1.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_top_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/main_top_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/emo_im_laughing_s.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/emo_im_laughing_s.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/active_two.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/active_two.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/active_one.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/active_one.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_des_bg.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/title_des_bg.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/spinner_ab_pressed_holo_light.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/bt_first_page_down.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/bt_first_page_down.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_my_account.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_my_account.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_search_cancel.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_search_cancel.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/line_system.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/line_system.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/searchaaaa_08.jpg",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/searchaaaa_08.jpg"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/cancel2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/cancel2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_richpush_actionbar_divider.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/gd_action_bar_refresh.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/gd_action_bar_refresh.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/option_menu_bg3.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/option_menu_bg3.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/price_free_bg.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/price_free_bg.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/star_full.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/star_full.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/privacy.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/privacy.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/left_account.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/left_account.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/mycount.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/mycount.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_location_normal.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/btn_location_normal.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/load_02.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/load_02.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_icon.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_icon.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/news_collect_btn_press.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/news_collect_btn_press.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_icon2.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/add_icon2.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete3.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/delete3.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/newsdetails_titlebar_comments_background.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/newsdetails_titlebar_comments_background.9.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_rm_list.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/icon_rm_list.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/img_big.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/src/main/res/drawable-hdpi/img_big.png"
+    },
+    {
+        "merged": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/res/merged/debug/drawable-hdpi-v4/vpi__tab_unselected_focused_holo.9.png",
+        "source": "/Users/liuming/Downloads/swoop/swoop/build/intermediates/exploded-aar/swoop/androidViewPagerIndicator/unspecified/res/drawable-hdpi-v4/vpi__tab_unselected_focused_holo.9.png"
+    }
+]

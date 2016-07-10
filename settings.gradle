@@ -1,0 +1,5 @@
+include ':androidViewPagerIndicator'
+include ':pullToRefreshLib'
+include ':comvclib'
+include ':image_browser_lib'
+include ':swoop'

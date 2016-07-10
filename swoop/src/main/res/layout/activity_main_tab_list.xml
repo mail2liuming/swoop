@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/recipe_tab"
+    android:layout_width="fill_parent"
+    android:layout_height="70dip"
+    android:background="@drawable/navigation"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <!--
+         <FrameLayout android:id="@+id/flTabHome" android:background="@drawable/unselect_background_footer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="0.100000024dip" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="top|center" android:id="@+id/ivHome" android:background="@drawable/ic_home" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginTop="-2.0dip" android:layout_marginRight="2.0dip" android:layout_marginBottom="10.0dip" />
+        <TextView android:textSize="10.0dip" android:textColor="@color/white" android:layout_gravity="bottom|center" android:id="@+id/sw_dialer_tv" android:paddingBottom="4.5dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="NEARBY" />
+    </FrameLayout>
+    -->
+
+    <FrameLayout
+        android:id="@+id/flTabPostAd"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:background="@drawable/active_navigation_menu" >
+
+        <ImageView
+            android:id="@+id/ivPostAd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:layout_marginBottom="25.0dip"
+            android:layout_marginLeft="25.0dip"
+            android:layout_marginRight="25.0dip"
+            android:layout_marginTop="10.0dip"
+            android:src="@drawable/nearby_icon_pressed" />
+
+        <TextView
+            android:id="@+id/tvPostAd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:paddingBottom="5dip"
+            android:text="NEARBY"
+            android:textColor="@color/white"
+            android:textSize="10.0dip" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/flTabMyAccount"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:background="@color/transparent" >
+
+        <ImageView
+            android:id="@+id/ivMyAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:layout_marginBottom="25.0dip"
+            android:layout_marginLeft="25.0dip"
+            android:layout_marginRight="25.0dip"
+            android:layout_marginTop="10.0dip"
+            android:src="@drawable/selling_icon" />
+
+        <TextView
+            android:id="@+id/tvMyAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:paddingBottom="5dip"
+            android:text="SELL"
+            android:textColor="@color/white"
+            android:textSize="10.0dip" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/flTabBookmark"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:background="@color/transparent" >
+
+        <ImageView
+            android:id="@+id/ivBookmark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:layout_marginBottom="25.0dip"
+            android:layout_marginLeft="25.0dip"
+            android:layout_marginRight="25.0dip"
+            android:layout_marginTop="10.0dip"
+            android:src="@drawable/watchlist_icon" />
+
+        <TextView
+            android:id="@+id/tvBookmark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:paddingBottom="5dip"
+            android:text="FAVOURITES"
+            android:textColor="@color/white"
+            android:textSize="10.0dip" />
+    </FrameLayout>
+    <!--
+         <FrameLayout android:id="@+id/flTabMore" android:background="@drawable/unselect_background_footer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="0.100000024dip" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="top|center" android:id="@+id/ivMore" android:background="@drawable/ic_bookmarks" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginTop="-2.0dip" android:layout_marginRight="2.0dip" android:layout_marginBottom="10.0dip" />
+        <TextView android:textSize="10.0dip" android:textColor="@color/white" android:layout_gravity="bottom|center" android:id="@+id/sw_dialer_tv" android:paddingBottom="4.5dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="SETTINGS" />
+    </FrameLayout>
+    -->
+
+    <FrameLayout
+        android:id="@+id/flTabPublish"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:background="@color/transparent" >
+
+        <ImageView
+            android:id="@+id/ivPublish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:layout_marginBottom="25.0dip"
+            android:layout_marginLeft="25.0dip"
+            android:layout_marginRight="25.0dip"
+            android:layout_marginTop="10.0dip"
+            android:src="@drawable/settings_icon" />
+
+        <TextView
+            android:id="@+id/tvPublish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:paddingBottom="5dip"
+            android:text="SETTINGS"
+            android:textColor="@color/white"
+            android:textSize="10.0dip" />
+    </FrameLayout>
+
+</LinearLayout>
